@@ -1,0 +1,2 @@
+# Vexa
+VexaNetwork global bot
